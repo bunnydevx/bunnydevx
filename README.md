@@ -1,6 +1,6 @@
 ### Hi there, I'm Izzy - aka [Ayu](https://ayudev.xyz) 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ayudev.xyz)
+[![Website](https://img.shields.io/website?label=ayudev.xyz&style=for-the-badge&url=https%3A%2F%2Fayudev.xyz)](https://ayudev.xyz)
 
 
 ## I'm a Devloper, Student, Gamer!!
