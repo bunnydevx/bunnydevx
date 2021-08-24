@@ -49,11 +49,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Call of duty Cold War Campain Completed](https://www.youtube.com/watch?v=yhcNBz3tDq8&t=86s)
-- [Landing Page | HTML | CSS | JS](https://www.youtube.com/watch?v=gTODI59PHJo)
-- [Glass Morphism HTML page with animations | no php included](https://www.youtube.com/watch?v=vnRrp53kU8g)
-- [Call of duty cold war | Campain](https://www.youtube.com/watch?v=rIKO3BobEsA&t=420s)
-- [Parallel scroll website | Link in description](https://www.youtube.com/watch?v=kQYlCQqQGuM)
+- [Make $500k as a College Dropout 💲, Find Tech Jobs 🔍, Get Started in Quantum 💻 // STACKr News Weekly](https://www.youtube.com/watch?v=OttkdpbSchQ)
+- [The Origins of React // Jenn Creighton React Advanced London Interview](https://www.youtube.com/watch?v=lIJHjamOPfM)
+- [AIs Building Websites 🤖, Aliens Killing UIs 👽, & Ecommerce with Jamstack 🛒 // STACKr News Weekly](https://www.youtube.com/watch?v=Q7-f99kYr60)
+- [⭐ BONUS: STACKr News Shorts - How To Accept Payments With Stripe](https://www.youtube.com/watch?v=dOnI3CtvFD4)
+- [Intentional Career Building with Kent C. Dodds // React Advanced London Interview](https://www.youtube.com/watch?v=1lxAnODL7GU)
 <!-- YOUTUBE:END -->
 
 ➡️ [Most Popular](https://www.youtube.com/watch?v=kQYlCQqQGuM)
