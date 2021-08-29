@@ -17,7 +17,7 @@
 [<img align="left" alt="Ayu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](twitter)
 [<img align="left" alt="Ayu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]([linkedin)
 [<img align="left" alt="Ayu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](instagram)
-
+<br />
 ---
 ![Spotify](https://spotify-umber.vercel.app/api/spotify)
 ---
