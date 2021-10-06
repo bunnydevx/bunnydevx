@@ -1,4 +1,4 @@
-### Hi there, I'm Izzy - aka [Ayu](https://ayudev.xyz) 👋
+### Hi there, I'm Izzy - aka [Ayu](https://ayudev.xyz)[wavegif](https://media2.giphy.com/media/0IxONYHUw0vikYuAoL/giphy.gif?cid=6c09b952mhge28ie28jiw2i7crquba4ks6rb7y35h09mfgcy&rid=giphy.gif&ct=s)
 
 [![Website](https://img.shields.io/website?label=ayudev.xyz&style=for-the-badge&url=https%3A%2F%2Fayudev.xyz)](https://ayudev.xyz)
 
@@ -12,8 +12,6 @@
 
 ### Connect with me:
 
----
-
 [<img align="left" alt="ayudev.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://ayudev.xyz)
 [<img align="left" alt="Ayu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/websitetutorials)
 [<img align="left" alt="Ayu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](twitter)
@@ -21,9 +19,7 @@
 [<img align="left" alt="Ayu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](instagram)
 <br />
 ---
-
 ![Spotify](https://spotify-umber.vercel.app/api/spotify)
-
 ---
 
 
@@ -40,8 +36,6 @@
 <br />
 
 ### Languages and Tools:
-
----
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
@@ -65,10 +59,6 @@
 
 ---
 
-### My Discord Server
-
----
-[![widget](https://inv.wtf/widget/rlc)](https://inv.wtf/rlc)
 
 
 
