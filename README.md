@@ -51,7 +51,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://i.ibb.co/n8zLC2B/Untitled-design-6.png"/>
 <img align="left" alt="MongoDB" width="26px" src="https://i.ibb.co/6bj8zmZ/mongo.png"/>
 <img align="left" alt="Git" width="26px" src="https://i.ibb.co/6JhqnQy/git.png"/>
-<img align="left" alt="GitHub" width="26px" src="hhttps://i.ibb.co/dtnpD2s/github.png"/>
+<img align="left" alt="GitHub" width="26px" src="https://i.ibb.co/LCqz9TB/github2.png"/>
 <img align="left" alt="Terminal" width="26px" src="https://i.ibb.co/8rfhxRK/term.png"/>
 
 <br />
