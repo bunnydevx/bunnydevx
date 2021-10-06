@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ayudev.xyz" width="22px" src="https://ibb.co/25gDDbm" />](https://ayudev.xyz)
+[<img align="left" alt="ayudev.xyz" width="22px" src="https://i.ibb.co/CWhkkrN/website.png" />](https://ayudev.xyz)
 [<img align="left" alt="Ayu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/websitetutorials)
 [<img align="left" alt="Ayu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](twitter)
 [<img align="left" alt="Ayu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]([linkedin)
