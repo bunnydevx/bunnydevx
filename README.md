@@ -1,4 +1,4 @@
-### Hi there, I'm Izzy - aka [Ayu](https://ayudev.xyz) [<img align"left" alt="wavegif" width="10px" src="https://media2.giphy.com/media/0IxONYHUw0vikYuAoL/giphy.gif?cid=6c09b952mhge28ie28jiw2i7crquba4ks6rb7y35h09mfgcy&rid=giphy.gif&ct=s" />]
+### Hi there, I'm Izzy - aka [Ayu](https://ayudev.xyz) [<img align="left" alt="wave" width="11px" src="https://media2.giphy.com/media/0IxONYHUw0vikYuAoL/giphy.gif?cid=6c09b952mhge28ie28jiw2i7crquba4ks6rb7y35h09mfgcy&rid=giphy.gif&ct=s" />](https://ayudev.xyz)
 
 [![Website](https://img.shields.io/website?label=ayudev.xyz&style=for-the-badge&url=https%3A%2F%2Fayudev.xyz)](https://ayudev.xyz)
 
@@ -17,7 +17,6 @@
 [<img align="left" alt="Ayu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](twitter)
 [<img align="left" alt="Ayu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]([linkedin)
 [<img align="left" alt="Ayu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](instagram)
-<br />
 ---
 ![Spotify](https://spotify-umber.vercel.app/api/spotify)
 ---
