@@ -13,10 +13,10 @@
 ### Connect with me:
 
 [<img align="left" alt="ayudev.xyz" width="22px" src="https://i.ibb.co/CWhkkrN/website.png" />](https://ayudev.xyz)
-[<img align="left" alt="Ayu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/websitetutorials)
-[<img align="left" alt="Ayu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](twitter)
-[<img align="left" alt="Ayu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]([linkedin)
-[<img align="left" alt="Ayu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](instagram)
+[<img align="left" alt="Ayu | YouTube" width="22px" src="https://i.ibb.co/r55tMwK/Untitled-design.png" />](https://youtube.com/websitetutorials)
+[<img align="left" alt="Ayu | Twitter" width="22px" src="https://i.ibb.co/FW4jzHN/Untitled-design-1.png" />](twitter)
+[<img align="left" alt="Ayu | LinkedIn" width="22px" src="https://i.ibb.co/3YMRCSD/Untitled-design-2.png" />]([linkedin)
+[<img align="left" alt="Ayu | Instagram" width="22px" src="https://i.ibb.co/WpBHRHt/Untitled-design-3.png" />](instagram)
 <br>
 ---
 ![Spotify](https://spotify-umber.vercel.app/api/spotify)
