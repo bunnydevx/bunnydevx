@@ -19,7 +19,7 @@
 [<img align="left" alt="Ayu | Instagram" width="22px" src="https://i.ibb.co/WpBHRHt/Untitled-design-3.png" />](instagram)
 <br>
 ---
-![Spotify](https://spotify-umber.vercel.app/api/spotify)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=river198&layout=compact&theme=blueberry&count_private=true&hide_border=true&line_height=25)
 ---
 
 
