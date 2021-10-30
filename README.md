@@ -1,7 +1,5 @@
 ### Hi there, I'm Izzy - aka [Ayu](https://ayudev.xyz) [<img align="center" alt="wave" width="27px" src="https://media2.giphy.com/media/0IxONYHUw0vikYuAoL/giphy.gif?cid=6c09b952mhge28ie28jiw2i7crquba4ks6rb7y35h09mfgcy&rid=giphy.gif&ct=s" />](https://ayudev.xyz)
 
-[![Website](https://img.shields.io/website?label=ayudev.xyz&style=for-the-badge&url=https%3A%2F%2Fayudev.xyz)](https://ayudev.xyz)
-
 
 ## I'm a Devloper, Student, Gamer!!
 
