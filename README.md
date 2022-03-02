@@ -1,7 +1,7 @@
 ### Hi there, I'm Izzy - aka [Ayu](https://ayudev.xyz) [<img align="center" alt="wave" width="27px" src="https://media2.giphy.com/media/0IxONYHUw0vikYuAoL/giphy.gif?cid=6c09b952mhge28ie28jiw2i7crquba4ks6rb7y35h09mfgcy&rid=giphy.gif&ct=s" />](https://ayudev.xyz)
 
 
-## I'm a Devloper, Student, Gamer!!
+## I'm a Developer, Student, Gamer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
