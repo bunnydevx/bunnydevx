@@ -1,4 +1,4 @@
-### Hi there, I'm Izzy - aka [Ayu](https://ayudev.xyz) [<img align="center" alt="wave" width="27px" src="https://media2.giphy.com/media/0IxONYHUw0vikYuAoL/giphy.gif?cid=6c09b952mhge28ie28jiw2i7crquba4ks6rb7y35h09mfgcy&rid=giphy.gif&ct=s" />](https://ayudev.xyz)
+### Hi there, I'm Izzy - aka [Ayu](https://ayudev.engineer) [<img align="center" alt="wave" width="27px" src="https://media2.giphy.com/media/0IxONYHUw0vikYuAoL/giphy.gif?cid=6c09b952mhge28ie28jiw2i7crquba4ks6rb7y35h09mfgcy&rid=giphy.gif&ct=s" />](https://ayudev.xyz)
 
 
 ## I'm a Devloper, Student, Gamer!!
@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ayudev.xyz" width="22px" src="https://i.ibb.co/CWhkkrN/website.png" />](https://ayudev.xyz)
-[<img align="left" alt="Ayu | YouTube" width="22px" src="https://i.ibb.co/r55tMwK/Untitled-design.png" />](https://youtube.com/websitetutorials)
+[<img align="left" alt="ayudev.xyz" width="22px" src="https://i.ibb.co/CWhkkrN/website.png" />](https://ayudev.engineer)
+[<img align="left" alt="Ayu | YouTube" width="22px" src="https://i.ibb.co/r55tMwK/Untitled-design.png" />](https://youtube.com/izzydevx)
 [<img align="left" alt="Ayu | Twitter" width="22px" src="https://i.ibb.co/FW4jzHN/Untitled-design-1.png" />](twitter)
 [<img align="left" alt="Ayu | LinkedIn" width="22px" src="https://i.ibb.co/3YMRCSD/Untitled-design-2.png" />]([linkedin)
 [<img align="left" alt="Ayu | Instagram" width="22px" src="https://i.ibb.co/WpBHRHt/Untitled-design-3.png" />](instagram)
