@@ -54,11 +54,3 @@
 
 <br />
 <br />
-
----
-
-### My Discord Server
-
----
- [![widget](https://inv.wtf/widget/rlc)](https://inv.wtf/rlc)
-
