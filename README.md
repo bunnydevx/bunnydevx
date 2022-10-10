@@ -31,7 +31,7 @@
 ---
 
 <div align="center"> 
-    <img src="https://lanyard.cnrad.dev/api/658441101861978151?bg=333333&borderRadius=10px" />
+    [![Discord Presence](https://lanyard.cnrad.dev/api/658441101861978151)](https://discord.com/users/658441101861978151)
 </div>
 
 <br />
