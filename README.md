@@ -31,7 +31,7 @@
 ---
 
 <div align="center"> 
-    <img src="https://lanyard.cnrad.dev/api/805166992432431124?bg=333333&borderRadius=10px" />
+    <img src="https://lanyard.cnrad.dev/api/658441101861978151?bg=333333&borderRadius=10px" />
 </div>
 
 <br />
