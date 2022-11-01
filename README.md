@@ -30,7 +30,9 @@
 
 ---
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/658441101861978151)](https://discord.com/users/658441101861978151)
+[![Discord Presence])
+
+<img alt="Discord Presence" src="https://media.discordapp.net/attachments/876168604436037704/1037043275376361522/River0003_cropped.png?width=1440&height=576"/>
 
 <br />
 
