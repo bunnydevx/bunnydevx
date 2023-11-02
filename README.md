@@ -1,19 +1,29 @@
-### Hi there, I'm Cayla - aka Calamitus <img align="center" alt="wave" width="27px" src="https://media2.giphy.com/media/0IxONYHUw0vikYuAoL/giphy.gif?cid=6c09b952mhge28ie28jiw2i7crquba4ks6rb7y35h09mfgcy&rid=giphy.gif&ct=s" /> [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+### Hi there, I'm Izzy - aka [River/Ayu](https://riverdev.wtf) [<img align="center" alt="wave" width="27px" src="https://media2.giphy.com/media/0IxONYHUw0vikYuAoL/giphy.gif?cid=6c09b952mhge28ie28jiw2i7crquba4ks6rb7y35h09mfgcy&rid=giphy.gif&ct=s" />](https://ayudev.xyz) [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
 
 
-## I'm a Developer & Gamer!!
+## I'm a Devloper & Gamer!!
 
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw and play guitar / drums
 
+### Connect with me:
+
+[<img align="left" alt="ayudev.xyz" width="22px" src="https://i.ibb.co/CWhkkrN/website.png" />](https://ayudev.engineer)
+[<img align="left" alt="Ayu | YouTube" width="22px" src="https://i.ibb.co/r55tMwK/Untitled-design.png" />](https://youtube.com/izzydevx)
+[<img align="left" alt="Ayu | Twitter" width="22px" src="https://i.ibb.co/FW4jzHN/Untitled-design-1.png" />](twitter)
+[<img align="left" alt="Ayu | LinkedIn" width="22px" src="https://i.ibb.co/3YMRCSD/Untitled-design-2.png" />]([linkedin)
+[<img align="left" alt="Ayu | Instagram" width="22px" src="https://i.ibb.co/WpBHRHt/Untitled-design-3.png" />](instagram)
 <br>
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalamitusXIII-MoMDev&layout=compact&theme=blueberry&count_private=true&hide_border=true&line_height=25)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=river198&layout=compact&theme=blueberry&count_private=true&hide_border=true&line_height=25)
 ---
 
 
 <table>
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=CalamitusXIII-MoMDev&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&theme=dracula" alt="Broken stats?">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=river198&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&theme=dracula" alt="Broken stats?">
     </td>
   </tr>
 </table>
@@ -45,4 +55,4 @@
 <br />
 <br />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CalamitusXIII-MoMDev&theme=onedark" alt="caylasstats"/></a></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=River198&theme=onedark" alt="riversstats"/></a></p>
