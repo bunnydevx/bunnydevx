@@ -16,14 +16,14 @@
 [<img align="left" alt="Ayu | Instagram" width="22px" src="https://i.ibb.co/WpBHRHt/Untitled-design-3.png" />](instagram)
 <br>
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabpot&layout=compact&theme=blueberry&count_private=true&hide_border=true&line_height=25)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=river198&layout=compact&theme=blueberry&count_private=true&hide_border=true&line_height=25)
 ---
 
 
 <table>
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabpot&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&theme=dracula" alt="Broken stats?">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=river198&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&theme=dracula" alt="Broken stats?">
     </td>
   </tr>
 </table>
@@ -55,4 +55,4 @@
 <br />
 <br />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabpot&theme=onedark" alt="riversstats"/></a></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=river198&theme=onedark" alt="riversstats"/></a></p>
