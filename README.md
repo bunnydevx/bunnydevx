@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ayudev.xyz" width="22px" src="https://i.ibb.co/CWhkkrN/website.png" />](https://ayudev.engineer)
+[<img align="left" alt="ayudev.xyz" width="22px" src="https://i.ibb.co/CWhkkrN/website.png" />](https://riverdev.wtf)
 [<img align="left" alt="Ayu | YouTube" width="22px" src="https://i.ibb.co/r55tMwK/Untitled-design.png" />](https://youtube.com/izzydevx)
 [<img align="left" alt="Ayu | Twitter" width="22px" src="https://i.ibb.co/FW4jzHN/Untitled-design-1.png" />](twitter)
 [<img align="left" alt="Ayu | LinkedIn" width="22px" src="https://i.ibb.co/3YMRCSD/Untitled-design-2.png" />]([linkedin)
