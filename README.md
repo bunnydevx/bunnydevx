@@ -9,11 +9,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ayudev.xyz" width="22px" src="https://i.ibb.co/CWhkkrN/website.png" />](https://riverdev.wtf)
-[<img align="left" alt="Ayu | YouTube" width="22px" src="https://i.ibb.co/r55tMwK/Untitled-design.png" />](https://youtube.com/izzydevx)
-[<img align="left" alt="Ayu | Twitter" width="22px" src="https://i.ibb.co/FW4jzHN/Untitled-design-1.png" />](twitter)
-[<img align="left" alt="Ayu | LinkedIn" width="22px" src="https://i.ibb.co/3YMRCSD/Untitled-design-2.png" />]([linkedin)
-[<img align="left" alt="Ayu | Instagram" width="22px" src="https://i.ibb.co/WpBHRHt/Untitled-design-3.png" />](instagram)
 <br>
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bunnydevx&layout=compact&theme=blueberry&count_private=false&hide_border=true&line_height=25)
