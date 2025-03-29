@@ -7,9 +7,7 @@
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-### Connect with me:
 
-<br>
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bunnydevx&layout=compact&theme=blueberry&count_private=false&hide_border=true&line_height=25)
 ---
