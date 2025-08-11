@@ -1,50 +1,66 @@
-### Hi there, I'm Izzy - aka [Bunny](https://bunnydev.dev) [<img align="center" alt="wave" width="27px" src="https://media2.giphy.com/media/0IxONYHUw0vikYuAoL/giphy.gif?cid=6c09b952mhge28ie28jiw2i7crquba4ks6rb7y35h09mfgcy&rid=giphy.gif&ct=s" />](https://ayudev.xyz) [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+# Isabella | bunny.dev
 
-
-## I'm a Devloper & Gamer!!
-
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
-
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bunnydevx&layout=compact&theme=blueberry&count_private=false&hide_border=true&line_height=25)
----
-
-
-<table>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=bunnydevx&count_private=false&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&theme=dracula" alt="Broken stats?">
-    </td>
-  </tr>
-</table>
+**Fullstack Developer @ Archron @ Arbiter**  
+JavaScript • TypeScript • React • TailwindCSS • Rust
 
 ---
 
+## 👋 About Me
 
-<br />
+Hi! I'm Isabella, a passionate fullstack developer who loves building open, accessible, and performant web applications. I thrive on learning new technologies, solving complex problems, and making the web a better place for everyone.
 
-### Languages and Tools:
+- 🌱 Always learning and experimenting with new tech
+- 💡 Enthusiastic problem solver and creative coder
+- 🦾 Strong advocate for open source and web accessibility
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png"/>
-<img align="left" alt="GraphQL" width="26px" src="https://i.ibb.co/myZ1BzY/Untitled-design-4.png"/>
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png"/>
-<img align="left" alt="SQL" width="26px" src="https://i.ibb.co/wSSjkdP/Untitled-design-5.png"/>
-<img align="left" alt="MySQL" width="26px" src="https://i.ibb.co/n8zLC2B/Untitled-design-6.png"/>
-<img align="left" alt="MongoDB" width="26px" src="https://i.ibb.co/6bj8zmZ/mongo.png"/>
-<img align="left" alt="Git" width="26px" src="https://i.ibb.co/6JhqnQy/git.png"/>
-<img align="left" alt="GitHub" width="26px" src="https://i.ibb.co/LCqz9TB/github2.png"/>
-<img align="left" alt="Terminal" width="26px" src="https://i.ibb.co/8rfhxRK/term.png"/>
+---
 
-<br />
-<br />
+## 💻 Core Skills
 
+- **Languages:** JavaScript, TypeScript, Rust
+- **Frontend:** React, Next.js, TailwindCSS
+- **Backend:** Node.js, Express, REST APIs
+- **Other:** Git, Docker, CI/CD, Vercel, Netlify
+
+---
+
+## 🚀 Projects & Work
+
+- **Archron @ Arbiter:** Fullstack development, building a web game
+- **Personal Projects:** [bunnydev.dev](https://bunnydev.dev)
+- **Open Source:** Always looking to contribute and collaborate!
+
+---
+
+## 📫 Connect with Me
+
+- **Discord:** `bunny.dev`
+- **Website:** [bunnydev.dev](https://bunnydev.dev)
+- **GitHub:** [bunnydevx](https://github.com/bunnydevx)
+
+---
+
+## 🛠️ Tools & Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/-React-333?logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333?logo=tailwindcss&logoColor=38B2AC)
+![Rust](https://img.shields.io/badge/-Rust-333?logo=rust&logoColor=DEA584)
+![Node.js](https://img.shields.io/badge/-Node.js-333?logo=node.js&logoColor=339933)
+![Docker](https://img.shields.io/badge/-Docker-333?logo=docker&logoColor=2496ED)
+![Vercel](https://img.shields.io/badge/-Vercel-333?logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-333?logo=netlify&logoColor=00C7B7)
+![Git](https://img.shields.io/badge/-Git-333?logo=git&logoColor=F05032)
+
+---
+
+## ✨ Fun Facts
+
+- 🐇 Nickname: Bunny
+- 📌 Motto: "Make the web more open to the world."
+- ⚡ Fun: I love hackathons, open-source jams, and building things that matter.
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
