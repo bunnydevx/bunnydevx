@@ -42,16 +42,7 @@ Hi! I'm Isabella, a passionate fullstack developer who loves building open, acce
 
 ## 🛠️ Tools & Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/-React-333?logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333?logo=tailwindcss&logoColor=38B2AC)
-![Rust](https://img.shields.io/badge/-Rust-333?logo=rust&logoColor=DEA584)
-![Node.js](https://img.shields.io/badge/-Node.js-333?logo=node.js&logoColor=339933)
-![Docker](https://img.shields.io/badge/-Docker-333?logo=docker&logoColor=2496ED)
-![Vercel](https://img.shields.io/badge/-Vercel-333?logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-333?logo=netlify&logoColor=00C7B7)
-![Git](https://img.shields.io/badge/-Git-333?logo=git&logoColor=F05032)
+![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,typescript,cs,java,python,php,html,css,sass,react,vuejs,angular,spring,mysql,jquery,redis,postgresql,mongodb,sqlite,git,linux,docker,nginx,express,electron,bootstrap,workers,postman,xd,figma)
 
 ---
 
