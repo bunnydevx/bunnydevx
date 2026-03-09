@@ -42,7 +42,7 @@ Hi! I'm Isabella, a passionate fullstack developer who loves building open, acce
 
 ## 🛠️ Tools & Technologies
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,typescript,cs,java,python,php,html,css,sass,react,vuejs,angular,spring,mysql,jquery,redis,postgresql,mongodb,sqlite,git,linux,docker,nginx,express,electron,bootstrap,workers,postman,xd,figma)
+![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,typescript,cs,cpp,java,php,html,css,sass,react,vuejs,angular,spring,mysql,jquery,redis,postgresql,mongodb,sqlite,git,linux,docker,nginx,express,electron,bootstrap,workers,postman,xd,ps,figma)
 
 ---
 
