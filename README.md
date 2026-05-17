@@ -17,9 +17,9 @@ Hi! I'm Isabella, a passionate fullstack developer who loves building open, acce
 
 ## 💻 Core Skills
 
-- **Languages:** JavaScript, TypeScript, Rust
+- **Languages:** JavaScript, TypeScript, Rust, Java
 - **Frontend:** React, Next.js, TailwindCSS
-- **Backend:** Node.js, Express, REST APIs
+- **Backend:** Node.js, Express, REST APIs, Spring
 - **Other:** Git, Docker, CI/CD, Vercel, Netlify
 
 ---
