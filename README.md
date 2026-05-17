@@ -1,7 +1,7 @@
 # Isabella | bunny.dev
 
 **Fullstack Developer @ Archron @ Arbiter**  
-JavaScript • TypeScript • React • TailwindCSS • Rust
+JavaScript • TypeScript • React • TailwindCSS • Rust • Java
 
 ---
 
@@ -42,7 +42,7 @@ Hi! I'm Isabella, a passionate fullstack developer who loves building open, acce
 
 ## 🛠️ Tools & Technologies
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,typescript,cs,cpp,java,php,html,css,sass,react,vuejs,angular,spring,mysql,jquery,redis,postgresql,mongodb,sqlite,git,linux,docker,nginx,express,electron,bootstrap,workers,postman,xd,ps,figma)
+![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,typescript,java,cs,cpp,java,php,html,css,sass,react,vuejs,angular,spring,mysql,jquery,redis,postgresql,mongodb,sqlite,git,linux,docker,nginx,express,electron,bootstrap,workers,postman,xd,ps,figma)
 
 ---
 
