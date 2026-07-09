@@ -1,6 +1,6 @@
 # Isabella | bunny.dev
 
-**Fullstack Developer @ Archron @ Arbiter**  
+**Fullstack Developer @ Avero @ Arbiter**  
 JavaScript • TypeScript • React • TailwindCSS • Rust • Java
 
 ---
