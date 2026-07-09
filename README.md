@@ -26,7 +26,7 @@ Hi! I'm Isabella, a passionate fullstack developer who loves building open, acce
 
 ## 🚀 Projects & Work
 
-- **Archron @ Arbiter:** Fullstack development, building a web game
+- **Avero @ Arbiter:** Fullstack development, building a web game
 - **Personal Projects:** [bunnydev.dev](https://bunnydev.dev)
 - **Open Source:** Always looking to contribute and collaborate!
 
